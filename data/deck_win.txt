@@ -1,0 +1,102 @@
+StarterCard Recto R:Insect R:Fungi R:Plant R:Animal Verso Empty Empty Invisible Invisible Resources R:Animal R:Insect R:Plant
+StarterCard Recto R:Plant R:Insect R:Animal R:Fungi Verso Empty Empty Empty Empty Resources R:Animal R:Insect
+StarterCard Recto R:Fungi R:Animal R:Plant R:Insect Verso Empty Empty Invisible Invisible Resources R:Plant R:Animal R:Fungi
+StarterCard Recto R:Insect R:Animal R:Fungi R:Plant Verso Empty Empty Empty Empty Resources R:Plant R:Fungi
+StarterCard Recto R:Plant R:Animal R:Fungi R:Insect Verso R:Animal Empty Empty R:Fungi Resources R:Fungi
+StarterCard Recto R:Fungi R:Plant R:Insect R:Animal Verso Empty R:Plant R:Insect Empty Resources R:Insect
+ResourceCard Recto Empty R:Fungi Empty Invisible Kingdom Fungi Scoring D:20
+ResourceCard Recto R:Fungi R:Insect A:Manuscript Invisible Kingdom Fungi Scoring D:20
+ResourceCard Recto A:Manuscript R:Insect Invisible R:Fungi Kingdom Insect Scoring D:20
+ResourceCard Recto R:Insect R:Plant A:Inkwell Invisible Kingdom Insect Scoring D:20
+ResourceCard Recto R:Insect Invisible Empty Empty Kingdom Insect Scoring D:20
+ResourceCard Recto Invisible Empty R:Insect R:Insect Kingdom Insect Scoring D:20
+ResourceCard Recto A:Quill Invisible R:Animal R:Fungi Kingdom Animal Scoring D:20
+ResourceCard Recto A:Manuscript Invisible R:Plant R:Animal Kingdom Plant Scoring D:20
+ResourceCard Recto R:Plant R:Animal Invisible A:Manuscript Kingdom Animal Scoring D:20
+ResourceCard Recto Invisible Empty R:Animal R:Animal Kingdom Animal Scoring D:20
+ResourceCard Recto R:Fungi Empty R:Fungi Invisible Kingdom Fungi Scoring D:20
+ResourceCard Recto Empty R:Animal Invisible R:Animal Kingdom Animal Scoring D:20
+ResourceCard Recto Empty R:Insect Invisible R:Insect Kingdom Insect Scoring D:20
+ResourceCard Recto Empty R:Animal Empty Invisible Kingdom Animal Scoring D:20
+ResourceCard Recto Empty Empty Invisible R:Plant Kingdom Plant Scoring D:20
+ResourceCard Recto R:Plant Empty R:Plant Invisible Kingdom Plant Scoring D:20
+ResourceCard Recto Empty Invisible R:Fungi R:Fungi Kingdom Fungi Scoring D:20
+ResourceCard Recto Invisible Empty R:Animal Empty Kingdom Animal Scoring D:20
+ResourceCard Recto Invisible R:Insect Empty Empty Kingdom Insect Scoring D:20
+ResourceCard Recto R:Fungi Invisible Empty Empty Kingdom Fungi Scoring D:20
+ResourceCard Recto R:Fungi R:Plant Invisible A:Inkwell Kingdom Plant Scoring D:20
+ResourceCard Recto R:Plant R:Plant Invisible Empty Kingdom Plant Scoring D:20
+ResourceCard Recto Invisible R:Plant Empty R:Plant Kingdom Plant Scoring D:20
+ResourceCard Recto Invisible R:Insect A:Quill R:Plant Kingdom Plant Scoring D:20
+ResourceCard Recto Empty Empty Invisible R:Insect Kingdom Insect Scoring D:20
+ResourceCard Recto R:Insect R:Insect Empty Invisible Kingdom Insect Scoring D:20
+ResourceCard Recto R:Insect Invisible R:Insect Empty Kingdom Insect Scoring D:20
+ResourceCard Recto Invisible R:Fungi Empty R:Fungi Kingdom Fungi Scoring D:20
+ResourceCard Recto A:Inkwell R:Fungi Invisible R:Animal Kingdom Fungi Scoring D:20
+ResourceCard Recto R:Fungi R:Fungi Invisible Empty Kingdom Fungi Scoring D:20
+ResourceCard Recto R:Animal Invisible R:Animal Empty Kingdom Animal Scoring D:20
+ResourceCard Recto Invisible A:Quill R:Plant R:Fungi Kingdom Fungi Scoring D:20
+ResourceCard Recto Invisible Empty R:Fungi Empty Kingdom Fungi Scoring D:20
+ResourceCard Recto Invisible R:Insect A:Inkwell R:Animal Kingdom Animal Scoring D:20
+ResourceCard Recto Empty Empty R:Plant Invisible Kingdom Plant Scoring D:20
+ResourceCard Recto R:Animal R:Animal Empty Invisible Kingdom Animal Scoring D:20
+ResourceCard Recto Empty Invisible R:Plant R:Plant Kingdom Plant Scoring D:20
+ResourceCard Recto Empty Invisible Empty R:Animal Kingdom Animal Scoring D:20
+ResourceCard Recto Invisible R:Plant Empty Empty Kingdom Plant Scoring D:20
+ResourceCard Recto Invisible A:Quill R:Animal R:Insect Kingdom Insect Scoring D:20
+GoldCard Recto Invisible Empty Empty Empty Kingdom Animal Cost Animal Animal Animal Plant Scoring C:2
+GoldCard Recto Empty Empty Empty Invisible Kingdom Insect Cost Insect Insect Insect Plant Scoring C:2
+GoldCard Recto Empty Empty Empty Invisible Kingdom Plant Cost Plant Plant Plant Animal Scoring C:2
+GoldCard Recto Empty Invisible A:Quill Invisible Kingdom Plant Cost Plant Plant Plant Scoring D:3
+GoldCard Recto Invisible Empty Invisible A:Quill Kingdom Animal Cost Animal Animal Animal Scoring D:3
+GoldCard Recto Invisible A:Inkwell Invisible Empty Kingdom Plant Cost Plant Plant Plant Scoring D:3
+GoldCard Recto Invisible Invisible A:Quill Empty Kingdom Insect Cost Insect Insect Insect Scoring D:3
+GoldCard Recto Invisible Empty Empty A:Quill Kingdom Fungi Cost Fungi Fungi Animal Scoring Q:1
+GoldCard Recto Empty Invisible Empty Empty Kingdom Insect Cost Insect Insect Insect Fungi Scoring C:2
+GoldCard Recto Empty Empty Invisible Empty Kingdom Fungi Cost Fungi Fungi Fungi Animal Scoring C:2
+GoldCard Recto Empty Invisible A:Inkwell Invisible Kingdom Fungi Cost Fungi Fungi Fungi Scoring D:3
+GoldCard Recto Empty Invisible A:Manuscript Invisible Kingdom Animal Cost Animal Animal Animal Scoring D:3
+GoldCard Recto Empty Invisible Empty Empty Kingdom Plant Cost Plant Plant Plant Fungi Scoring C:2
+GoldCard Recto Invisible Empty Empty Empty Kingdom Plant Cost Plant Plant Plant Insect Scoring C:2
+GoldCard Recto A:Inkwell Empty Empty Invisible Kingdom Animal Cost Animal Animal Insect Scoring I:1
+GoldCard Recto Invisible Empty Invisible Empty Kingdom Animal Cost Animal Animal Animal Animal Animal Scoring D:5
+GoldCard Recto A:Quill Empty Invisible Invisible Kingdom Fungi Cost Fungi Fungi Fungi Scoring D:3
+GoldCard Recto Empty Invisible A:Manuscript Empty Kingdom Insect Cost Insect Insect Animal Scoring M:1
+GoldCard Recto Empty Empty Invisible Invisible Kingdom Plant Cost Plant Plant Plant Plant Plant Scoring D:5
+GoldCard Recto Empty Invisible Empty Empty Kingdom Fungi Cost Fungi Fungi Fungi Insect Scoring C:2
+GoldCard Recto Empty A:Quill Invisible Empty Kingdom Insect Cost Insect Insect Plant Scoring Q:1
+GoldCard Recto A:Manuscript Empty Empty Invisible Kingdom Fungi Cost Fungi Fungi Insect Scoring M:1
+GoldCard Recto Empty A:Inkwell Invisible Empty Kingdom Fungi Cost Fungi Fungi Plant Scoring I:1
+GoldCard Recto A:Quill Empty Empty Invisible Kingdom Plant Cost Plant Plant Insect Scoring Q:1
+GoldCard Recto Empty A:Inkwell Invisible Invisible Kingdom Animal Cost Animal Animal Animal Scoring D:3
+GoldCard Recto Empty Invisible Empty Invisible Kingdom Fungi Cost Fungi Fungi Fungi Fungi Fungi Scoring D:5
+GoldCard Recto Empty A:Manuscript Invisible Empty Kingdom Plant Cost Plant Plant Fungi Scoring M:1
+GoldCard Recto Empty Empty Invisible Empty Kingdom Insect Cost Insect Insect Insect Animal Scoring C:2
+GoldCard Recto Empty Empty Invisible Empty Kingdom Animal Cost Animal Animal Animal Insect Scoring C:2
+GoldCard Recto Empty Empty Empty Invisible Kingdom Fungi Cost Fungi Fungi Fungi Plant Scoring C:2
+GoldCard Recto Invisible Empty Empty A:Inkwell Kingdom Insect Cost Insect Insect Fungi Scoring I:1
+GoldCard Recto Empty Invisible A:Inkwell Empty Kingdom Plant Cost Plant Plant Animal Scoring I:1
+GoldCard Recto Empty Invisible A:Quill Empty Kingdom Animal Cost Animal Animal Fungi Scoring Q:1
+GoldCard Recto Invisible Empty Empty A:Manuscript Kingdom Animal Cost Animal Animal Plant Scoring M:1
+GoldCard Recto A:Manuscript Empty Invisible Invisible Kingdom Plant Cost Plant Plant Plant Scoring D:3
+GoldCard Recto Invisible A:Manuscript Invisible Empty Kingdom Fungi Cost Fungi Fungi Fungi Scoring D:3
+GoldCard Recto Empty A:Manuscript Invisible Invisible Kingdom Insect Cost Insect Insect Insect Scoring D:3
+GoldCard Recto Empty Empty Invisible Invisible Kingdom Insect Cost Insect Insect Insect Insect Insect Scoring D:5
+GoldCard Recto A:Inkwell Invisible Empty Invisible Kingdom Insect Cost Insect Insect Insect Scoring D:3
+GoldCard Recto Empty Invisible Empty Empty Kingdom Animal Cost Animal Animal Animal Fungi Scoring C:2
+Objective Pattern Fungi TopRight Fungi TopRight Fungi Scoring D:2 BackgroundDiagBomb
+Objective Pattern Animal TopRight Animal TopRight Animal Scoring D:2 BackgroundDiagAnimal
+Objective Pattern Insect BottomRight Insect BottomRight Insect Scoring D:2 BackgroundDiagFairy
+Objective Pattern Plant BottomRight Plant BottomRight Plant Scoring D:2 BackgroundDiagPlant
+Objective Pattern Animal Top Animal TopRight Fungi Scoring D:3 BackgroundLAnimal
+Objective Pattern Fungi Bottom Fungi BottomRight Plant Scoring D:3 BackgroundLBomb
+Objective Pattern Plant Bottom Plant BottomLeft Insect Scoring D:3 BackgroundLPlant
+Objective Pattern Insect Top Insect TopLeft Animal Scoring D:3 BackgroundLFairy
+Objective Resource Animal Animal Animal Scoring D:2 Background3animal
+Objective Resource Insect Insect Insect Scoring D:2 Background3fairy
+Objective Resource Plant Plant Plant Scoring D:2 Background3plant
+Objective Resource Fungi Fungi Fungi Scoring D:2 Background3bomb
+Objective Artifact Manuscript Manuscript Scoring D:2 Background2map
+Objective Artifact Inkwell Inkwell Scoring D:2 Background2potion
+Objective Artifact Quill Quill Scoring D:2 Background2arrow
+Objective Artifact Quill Inkwell Manuscript Scoring D:3 Background3artefact
